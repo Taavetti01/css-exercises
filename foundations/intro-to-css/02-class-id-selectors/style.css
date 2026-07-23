@@ -7,12 +7,12 @@
     font-size: 24px;
 }
 
-.two {
+#two {
     color: blue;
     font-size: 36px;
 }
 
-.four {
+#four {
     background-color: lightgreen;
     font-weight: bold;
 }
